@@ -18,31 +18,36 @@
 
 * Python 3.10 이상 권장
 
-## 설치
+---
 
-## macOS
+## macOS 사용법
 
-1. ZIP 다운로드
+1. 저장소 ZIP 다운로드
 2. 압축 해제
-3. 실행하기.command 실행
+3. `실행하기.command` 실행
 
-### macOS
+만약 실행이 차단되면:
 
-```bash
-pip3 install customtkinter pillow
-```
-
-### Linux
+1. 터미널 실행
+2. 프로그램 폴더로 이동
+3. 아래 명령 실행
 
 ```bash
-pip3 install customtkinter pillow
+chmod +x 실행하기.command
+./실행하기.command
 ```
 
 ---
 
-## 실행
+## 수동 실행
 
-### macOS / Linux
+필요한 라이브러리 설치:
+
+```bash
+pip3 install customtkinter pillow
+```
+
+프로그램 실행:
 
 ```bash
 python3 notion_gallery.py
@@ -66,9 +71,3 @@ python3 notion_gallery.py
 * CustomTkinter
 * Pillow
 * Tkinter
-
----
-
-## 라이선스
-
-개인 사용 가능
