@@ -20,6 +20,12 @@
 
 ## 설치
 
+## macOS
+
+1. ZIP 다운로드
+2. 압축 해제
+3. 실행하기.command 실행
+
 ### Windows
 
 ```bash
