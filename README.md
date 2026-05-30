@@ -26,12 +26,6 @@
 2. 압축 해제
 3. 실행하기.command 실행
 
-### Windows
-
-```bash
-pip install customtkinter pillow
-```
-
 ### macOS
 
 ```bash
@@ -47,12 +41,6 @@ pip3 install customtkinter pillow
 ---
 
 ## 실행
-
-### Windows
-
-```bash
-python notion_gallery.py
-```
 
 ### macOS / Linux
 
